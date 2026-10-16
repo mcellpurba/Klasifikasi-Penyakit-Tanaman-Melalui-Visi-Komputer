@@ -1,0 +1,7 @@
+# Abaikan dataset dan folder bawaan Colab
+PlantDoc-Dataset/
+sample_data/
+.config/
+
+# Abaikan checkpoint model PyTorch (ukuran file sangat besar, sebaiknya tidak di-push ke GitHub)
+*.pth
